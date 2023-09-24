@@ -19,7 +19,7 @@
         "notasEmisor": "Compartiendo ideas sobre cómo reutilizar papel y cartón en casa.",
         "imagen": "https://www.acaminar.org/images/2021/04/05/reciclaje-de-papel-carton.png",
         "fechaEmision": "2023-09-19",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 4,
         "respuestasObtenidas": 12
@@ -57,7 +57,7 @@
         "fechaEmision": "2023-09-16",
         "estado": "S",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 0,
         "respuestasObtenidas": 9
       },
       {
@@ -81,7 +81,7 @@
         "fechaEmision": "2023-09-14",
         "estado": "R",
         "visible": true,
-        "idResiduo": 4,
+        "idResiduo": 5,
         "respuestasObtenidas": 7
       },
       {
@@ -93,7 +93,7 @@
         "fechaEmision": "2023-09-13",
         "estado": "S",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 0,
         "respuestasObtenidas": 11
       },
       {
@@ -129,7 +129,7 @@
         "fechaEmision": "2023-09-10",
         "estado": "S",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 0,
         "respuestasObtenidas": 8
       },
       {
@@ -163,7 +163,7 @@
         "notasEmisor": "Ideas creativas para reutilizar papel y cartón en proyectos escolares.",
         "imagen": "https://www.acaminar.org/images/2021/04/05/reciclaje-de-papel-carton.png",
         "fechaEmision": "2023-09-07",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 4,
         "respuestasObtenidas": 7
@@ -199,7 +199,7 @@
         "notasEmisor": "Reciclaje de metales ferrosos en la industria de la construcción.",
         "imagen": "https://www.enmaterialreciclado.com/wp-content/uploads/2020/09/reciclar-metales-1024x768.jpg",
         "fechaEmision": "2023-09-04",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 2,
         "respuestasObtenidas": 11
@@ -235,7 +235,7 @@
         "notasEmisor": "Ejemplos de proyectos artísticos con papel y cartón reciclados.",
         "imagen": "https://www.acaminar.org/images/2021/04/05/reciclaje-de-papel-carton.png",
         "fechaEmision": "2023-09-01",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 4,
         "respuestasObtenidas": 10
@@ -271,7 +271,7 @@
         "notasEmisor": "Reciclaje de metales en la industria automotriz y su impacto en la sostenibilidad.",
         "imagen": "https://www.enmaterialreciclado.com/wp-content/uploads/2020/09/reciclar-metales-1024x768.jpg",
         "fechaEmision": "2023-08-29",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 2,
         "respuestasObtenidas": 9
@@ -307,7 +307,7 @@
         "notasEmisor": "Técnicas de reutilización de papel y cartón en la industria del embalaje.",
         "imagen": "https://www.acaminar.org/images/2021/04/05/reciclaje-de-papel-carton.png",
         "fechaEmision": "2023-08-26",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 4,
         "respuestasObtenidas": 6
@@ -343,7 +343,7 @@
         "notasEmisor": "Reciclaje de metales preciosos en la industria de la electrónica.",
         "imagen": "https://www.enmaterialreciclado.com/wp-content/uploads/2020/09/reciclar-metales-1024x768.jpg",
         "fechaEmision": "2023-08-23",
-        "estado": "S",
+        "estado": "R",
         "visible": true,
         "idResiduo": 2,
         "respuestasObtenidas": 10
