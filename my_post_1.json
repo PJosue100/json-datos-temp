@@ -9,7 +9,7 @@
         "fechaEmision": "2023-09-20",
         "estado": "R",
         "visible": true,
-        "idResiduo": 1,
+        "idResiduo": 5,
         "respuestasObtenidas": 5
       },
       {
@@ -29,11 +29,11 @@
         "idUsuarioEmisor": 103,
         "etiquetaPost": "Reciclaje de vidrio",
         "notasEmisor": "Información sobre la importancia de reciclar vidrio para el medio ambiente.",
-        "imagen": "https://iresiduo.com/sites/default/files/styles/thumbnail-830x455/public/vidrio-reciclaje-pixabay.jpg",
+        "imagen": "https://i0.wp.com/stopbasura.com/wp-content/uploads/2016/06/393978012_bb3376c74d_o.jpg",
         "fechaEmision": "2023-09-18",
         "estado": "V",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 6,
         "respuestasObtenidas": 8
       },
       {
@@ -45,7 +45,7 @@
         "fechaEmision": "2023-09-17",
         "estado": "R",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 1,
         "respuestasObtenidas": 6
       },
       {
@@ -57,7 +57,7 @@
         "fechaEmision": "2023-09-16",
         "estado": "S",
         "visible": true,
-        "idResiduo": 3,
+        "idResiduo": 2,
         "respuestasObtenidas": 9
       },
       {
@@ -69,7 +69,7 @@
         "fechaEmision": "2023-09-15",
         "estado": "V",
         "visible": true,
-        "idResiduo": 6,
+        "idResiduo": 3,
         "respuestasObtenidas": 4
       },
       {
@@ -81,7 +81,7 @@
         "fechaEmision": "2023-09-14",
         "estado": "R",
         "visible": true,
-        "idResiduo": 1,
+        "idResiduo": 4,
         "respuestasObtenidas": 7
       },
       {
@@ -93,7 +93,7 @@
         "fechaEmision": "2023-09-13",
         "estado": "S",
         "visible": true,
-        "idResiduo": 4,
+        "idResiduo": 5,
         "respuestasObtenidas": 11
       },
       {
@@ -101,11 +101,11 @@
         "idUsuarioEmisor": 109,
         "etiquetaPost": "Reciclaje de vidrio",
         "notasEmisor": "Recopilación de datos sobre la tasa de reciclaje de vidrio en la ciudad.",
-        "imagen": "https://iresiduo.com/sites/default/files/styles/thumbnail-830x455/public/vidrio-reciclaje-pixabay.jpg",
+        "imagen": "https://i0.wp.com/stopbasura.com/wp-content/uploads/2016/06/393978012_bb3376c74d_o.jpg",
         "fechaEmision": "2023-09-12",
         "estado": "V",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 6,
         "respuestasObtenidas": 5
       },
       {
@@ -117,7 +117,7 @@
         "fechaEmision": "2023-09-11",
         "estado": "R",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 1,
         "respuestasObtenidas": 3
       },
       {
@@ -129,7 +129,7 @@
         "fechaEmision": "2023-09-10",
         "estado": "S",
         "visible": true,
-        "idResiduo": 3,
+        "idResiduo": 2,
         "respuestasObtenidas": 8
       },
       {
@@ -141,7 +141,7 @@
         "fechaEmision": "2023-09-09",
         "estado": "V",
         "visible": true,
-        "idResiduo": 6,
+        "idResiduo": 3,
         "respuestasObtenidas": 6
       },
       {
@@ -153,7 +153,7 @@
         "fechaEmision": "2023-09-08",
         "estado": "R",
         "visible": true,
-        "idResiduo": 1,
+        "idResiduo": 5,
         "respuestasObtenidas": 9
       },
       {
@@ -173,11 +173,11 @@
         "idUsuarioEmisor": 115,
         "etiquetaPost": "Reciclaje de vidrio",
         "notasEmisor": "Iniciativas locales de reciclaje de vidrio y su impacto en la comunidad.",
-        "imagen": "https://iresiduo.com/sites/default/files/styles/thumbnail-830x455/public/vidrio-reciclaje-pixabay.jpg",
+        "imagen": "https://i0.wp.com/stopbasura.com/wp-content/uploads/2016/06/393978012_bb3376c74d_o.jpg",
         "fechaEmision": "2023-09-06",
         "estado": "V",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 6,
         "respuestasObtenidas": 4
       },
       {
@@ -189,7 +189,7 @@
         "fechaEmision": "2023-09-05",
         "estado": "R",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 1,
         "respuestasObtenidas": 5
       },
       {
@@ -201,7 +201,7 @@
         "fechaEmision": "2023-09-04",
         "estado": "S",
         "visible": true,
-        "idResiduo": 3,
+        "idResiduo": 2,
         "respuestasObtenidas": 11
       },
       {
@@ -213,7 +213,7 @@
         "fechaEmision": "2023-09-03",
         "estado": "V",
         "visible": true,
-        "idResiduo": 6,
+        "idResiduo": 3,
         "respuestasObtenidas": 8
       },
       {
@@ -225,7 +225,7 @@
         "fechaEmision": "2023-09-02",
         "estado": "R",
         "visible": true,
-        "idResiduo": 1,
+        "idResiduo": 5,
         "respuestasObtenidas": 6
       },
       {
@@ -245,11 +245,11 @@
         "idUsuarioEmisor": 121,
         "etiquetaPost": "Reciclaje de vidrio",
         "notasEmisor": "Reciclaje de vidrio en eventos comunitarios y festivales.",
-        "imagen": "https://iresiduo.com/sites/default/files/styles/thumbnail-830x455/public/vidrio-reciclaje-pixabay.jpg",
+        "imagen": "https://i0.wp.com/stopbasura.com/wp-content/uploads/2016/06/393978012_bb3376c74d_o.jpg",
         "fechaEmision": "2023-08-31",
         "estado": "V",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 6,
         "respuestasObtenidas": 7
       },
       {
@@ -261,7 +261,7 @@
         "fechaEmision": "2023-08-30",
         "estado": "R",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 1,
         "respuestasObtenidas": 4
       },
       {
@@ -273,7 +273,7 @@
         "fechaEmision": "2023-08-29",
         "estado": "S",
         "visible": true,
-        "idResiduo": 3,
+        "idResiduo": 2,
         "respuestasObtenidas": 9
       },
       {
@@ -285,7 +285,7 @@
         "fechaEmision": "2023-08-28",
         "estado": "V",
         "visible": true,
-        "idResiduo": 6,
+        "idResiduo": 3,
         "respuestasObtenidas": 5
       },
       {
@@ -297,7 +297,7 @@
         "fechaEmision": "2023-08-27",
         "estado": "R",
         "visible": true,
-        "idResiduo": 1,
+        "idResiduo": 5,
         "respuestasObtenidas": 8
       },
       {
@@ -321,7 +321,7 @@
         "fechaEmision": "2023-08-25",
         "estado": "V",
         "visible": true,
-        "idResiduo": 5,
+        "idResiduo": 6,
         "respuestasObtenidas": 4
       },
       {
@@ -333,7 +333,7 @@
         "fechaEmision": "2023-08-24",
         "estado": "R",
         "visible": true,
-        "idResiduo": 2,
+        "idResiduo": 1,
         "respuestasObtenidas": 3
       },
       {
@@ -345,7 +345,7 @@
         "fechaEmision": "2023-08-23",
         "estado": "S",
         "visible": true,
-        "idResiduo": 3,
+        "idResiduo": 2,
         "respuestasObtenidas": 10
       },
       {
@@ -357,7 +357,7 @@
         "fechaEmision": "2023-08-22",
         "estado": "V",
         "visible": true,
-        "idResiduo": 6,
+        "idResiduo": 3,
         "respuestasObtenidas": 7
       }
     ]
