@@ -58,7 +58,7 @@
         "estado": "S",
         "visible": true,
         "idResiduo": 0,
-        "respuestasObtenidas": 9
+        "respuestasObtenidas": 0
       },
       {
         "id": 6,
@@ -94,7 +94,7 @@
         "estado": "S",
         "visible": true,
         "idResiduo": 0,
-        "respuestasObtenidas": 11
+        "respuestasObtenidas": 0
       },
       {
         "id": 9,
@@ -130,7 +130,7 @@
         "estado": "S",
         "visible": true,
         "idResiduo": 0,
-        "respuestasObtenidas": 8
+        "respuestasObtenidas": 0
       },
       {
         "id": 12,
