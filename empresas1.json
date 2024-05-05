@@ -1,0 +1,49 @@
+{
+    "datos": {
+        "resultado": true
+    },
+    "valor": {
+        "empresas": [
+            {
+                "id": 1,
+                "nombre": "Skylink Innovations"
+            },
+            {
+                "id": 2,
+                "nombre": "Aurora Technologies"
+            },
+            {
+                "id": 3,
+                "nombre": "NexGen Dynamics"
+            },
+            {
+                "id": 4,
+                "nombre": "Quantum Enterprises"
+            },
+            {
+                "id": 5,
+                "nombre": "Vertex Solutions"
+            },
+            {
+                "id": 6,
+                "nombre": "Zenith Innovations"
+            },
+            {
+                "id": 7,
+                "nombre": "Eclipse Industries"
+            },
+            {
+                "id": 8,
+                "nombre": "Pinnacle Systems"
+            },
+            {
+                "id": 9,
+                "nombre": "Stratus Technologies"
+            },
+            {
+                "id": 10,
+                "nombre": "Meridian Dynamics"
+            }
+        ]
+    }
+}

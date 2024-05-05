@@ -1,0 +1,8 @@
+{
+    "datos": {
+        "resultado": false
+    },
+    "valor": {
+        "mensaje": "El usuario no tiene empresas asociadas."
+    }
+}

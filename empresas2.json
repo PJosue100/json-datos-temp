@@ -1,0 +1,13 @@
+{
+    "datos": {
+        "resultado": true
+    },
+    "valor": {
+        "empresas": [
+            {
+                "id": 10,
+                "nombre": "Meridian Dynamics"
+            }
+        ]
+    }
+}
